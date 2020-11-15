@@ -1,0 +1,21 @@
+
+1. Was ist der topographische Feuchtigkeitsindex?
+"Der topographische Feuchtigkeitsindex (Topographic Wetness Index, TWI) wird, wie andere Indices auch,
+aus mehreren geomorphometrischen Reliefparametern ermittelt (Behrens, 2003). Beim topographischen
+Feuchtigkeitsindex, der aus dem hydrologischen Modell TOPMODEL (Beven & Kirby, 1979) stammt, wird
+die Fließakkumulation eines Reliefs mit der Hangneigung gewichtet. Die Fließakkumulation beschreibt,
+auf ein Rastermodell bezogen, die Anzahl der Zellen, die in eine Zelle hineinfließen, und wird vielfach
+auch als Catchment Area bezeichnet (Olaya, 2004). Der TWI zeigt die Tendenz einer Rasterzelle zum
+Oberflächenabfluss, und steht in einem engen Zusammenhang mit der Feuchte eines Bodens (Olaya,
+2004)." (Geostatistische Analysen zur Integration von Geländemodellen und Bodenschätzungsdaten für 
+verbesserte digitale Bodenkarten am Beispiel einer alluvialen Landschaft,  DI Thomas Schauppenlehner)
+ 
+2. Wie hängen die TWI-Werte mit der Hochwasserwahrscheinlichkeit zusammen?
+Je höher der Wert des TWI, desto höher die Bodenfeuchte (Geostatistische Analysen zur Integration von Geländemodellen und Bodenschätzungsdaten für 
+verbesserte digitale Bodenkarten am Beispiel einer alluvialen Landschaft,  DI Thomas Schauppenlehner). In Bezug auf ein bestimmtes Einzugsgebiet 
+beschreibt der TWI den Trend des Wassers, sich an einem bestimmten Punkt anzusammeln. (Pourali, S. H. et al., 2016). Somit je höher der TWI-Wert ist, 
+desto höher ist die Hochwasserwahrscheinlichkeit.
+ 
+Quelle: Pourali, S. H., Arrowsmith, C., Chrisman, N., Matkan, A. A., & Mitchell, D. (2016). 
+Topography wetness index application in flood-risk-based land use planning. Applied Spatial Analysis and Policy, 9(1), 39-54.
+
